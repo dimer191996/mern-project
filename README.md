@@ -2,6 +2,8 @@
 ## MERN Stack
 ### React / Express / MongoDB / Redux
 
+![alt text](https://drive.google.com/file/d/17ROb2zFn39uDApFs91ZIqqwPMsawPADA/view?usp=sharing)
+
 Start server : `npm start`
 
 Start client : `cd client` + `npm start`
